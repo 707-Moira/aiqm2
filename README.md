@@ -1,5 +1,5 @@
 # aiqm2
-This repository contains calculation scripts and results for:
+This repository contains analysis scripts and results for:
 
 AIQM2: Better Reaction Simulations with the 2nd Generation of General-Purpose AI-enhanced Quantum Mechanical Methods
 
@@ -16,19 +16,16 @@ This folder contains the results for the benchmark on GMTKN55 arranged by level 
 ## BHPERI
 This folder contains two subfolders. `gmtkn55` stores geometry optimization results of AIQM2 on each transition state in BHPERI from GMTKN55. 
 
-We reevaluated AIQM2 on 3 reactions from BHPERI whose geometries are optimized at CCSD(T)/cc-pVTZ in a recent study [_Phys. Chem. Chem. Phys._ **2022**, 24, 18028–18042]. The optimized geometries are included in folder `revised_PCCP`
+We reevaluated AIQM2 on 3 reactions from BHPERI whose geometries are optimized at CCSD(T)/cc-pVTZ in a recent study [_Phys. Chem. Chem. Phys._ **2022**, 24, 18028–18042]. The optimized geometries and single point energies are included in folder `revised_PCCP`
 
 - `DA`: The Diels-Alder reaction starting from trans-butadiene and ethylene
 - `ER`: The electrocyclic ring-opening reaction starting from cyclobutene
 - `SR`: The sigmatropic rearrangement originating from the E-isomer of 1,3-pentadiene
 
 ## ambimodal
-This folder contains geometry optimization results for reactants, 2 products, and transition states at each level of theory for ambimodal reaction between 
+This folder contains optimized geometries and single point energies for reactants, 2 products, and transition states at each level of theory for ambimodal reaction between 
 tropone and dimethylfulvene studied in previous work. [_J. Am. Chem. Soc._ **2017**, 139, 8251–8258]
 
 ## To be updated
 
-- GMTKN55 benchmark results of ANI-1ccx and various DFT methods
-- Energies of stationary points for reevaluated subset in BHPERI and ambimodal reaction
 - Jupiter notebooks for calculation and analysis of ambimodal reactions
- 
