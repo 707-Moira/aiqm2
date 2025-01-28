@@ -26,13 +26,9 @@ We reevaluated AIQM2 on 3 reactions from BHPERI whose geometries are optimized a
 This folder contains geometry optimization results for reactants, 2 products, and transition states at each level of theory for ambimodal reaction between 
 tropone and dimethylfulvene studied in previous work. [_J. Am. Chem. Soc._ **2017**, 139, 8251–8258]
 
-## To be updated:
-### Missing results:
+## To be updated
 
 - GMTKN55 benchmark results of ANI-1ccx and various DFT methods
-- Results of single point calculation at CCSD(T)*/CBS level 
-
-### Jupyter notebooks for calculation and analysis are coming including:
-- benchmark AIQM2 on GMTKN55 and generate analysis table
-- visualize the optimized geometries and their normal modes with `freqmol.json` in each subfolder
-- generate the reaction diagram for ambimodal reaction
+- Energies of stationary points for reevaluated subset in BHPERI and ambimodal reaction
+- Jupiter notebooks for calculation and analysis of ambimodal reactions
+ 
