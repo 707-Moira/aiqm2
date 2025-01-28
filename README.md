@@ -28,4 +28,4 @@ tropone and dimethylfulvene studied in previous work. [_J. Am. Chem. Soc._ **201
 
 ## To be updated
 
-- Jupiter notebooks for calculation and analysis of ambimodal reactions
+- Jupyter notebooks for calculation and analysis of ambimodal reactions
