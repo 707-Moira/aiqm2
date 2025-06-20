@@ -1,9 +1,11 @@
-# aiqm2
+# AIQM2
 This repository contains analysis scripts and results for:
 
 AIQM2: Better Reaction Simulations with the 2nd Generation of General-Purpose AI-enhanced Quantum Mechanical Methods
 
 Preprint on ChemRxiv: [https://doi.org/10.26434/chemrxiv-2024-c8s16](https://doi.org/10.26434/chemrxiv-2024-j8pxp)
+
+The training data for AIQM2 is publicly available at [https://doi.org/10.5281/zenodo.15703165](https://doi.org/10.5281/zenodo.15703165).
 
 ## gmtkn55
 This folder contains the results for the benchmark on GMTKN55 arranged by level of theories. There are four files under each subfolder:
